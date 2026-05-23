@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/language-Turkish-red?style=flat">
 </a>
 &nbsp;
-<a alt="Greasy Fork Page" href="https://greasyfork.org/scripts/YOUR-LINK-HERE" target="_blank" style="text-decoration: none">
+<a alt="Greasy Fork Page" href="https://greasyfork.org/en/scripts/579486-auto-twitch-rocketleague-bracket" target="_blank" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Greasy_Fork-gray?style=flat&logo=greasyfork&logoColor=black">
 </a>
 
