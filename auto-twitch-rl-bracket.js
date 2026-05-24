@@ -18,9 +18,20 @@
 (function() {
     'use strict';
 
-    const ALLOWED_CHANNELS = ['rocketleague', 'rlesports', 'rocketbaguette', 'rocketstreetlive', 'therocketrb', 'rocketleaguemena', 'rocketleagueoce', 'rocketleaguesam', 'rocketleagueapac'];
+    const ALLOWED_CHANNELS = [
+        'rocketleague',
+        'rlesports',
+        'rocketleaguemena',
+        'rocketleagueapac',
+        'rocketleaguesam',
+        'rocketleagueoce',
+        'rocketbaguette',
+        'rocketstreetlive',
+        'therocketrb',
+        'raketenligalive',
+    ];
 
-    // CSS Styles for our custom button
+    // CSS Styles for custom button
     const bracket_button_styles = document.createElement("style");
     bracket_button_styles.innerText = `
         .bracket-opener-wrapper {
